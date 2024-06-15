@@ -22,7 +22,7 @@
 </p>
 
 ## Download
-Go to the [Releases](https://github.com/skydoves/Pokedex/releases) to download the latest APK.
+Go to the [Releases](https://github.com/timife007/VPDMoney-Assessment/releases/download/initial/app-release.apk) to download the latest APK.
 
 <img src="/previews/preview.gif" align="right" width="320"/>
 
